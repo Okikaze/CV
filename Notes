@@ -1,0 +1,25 @@
+<!-- NOTE
+
+<!DOCTYPE html> → je parle en HTML5.
+
+<html> → boîte globale.
+
+<head> → infos techniques (non visibles).
+
+<meta charset="UTF-8"> → accents affichés correctement.
+
+<title> → titre dans l’onglet.
+
+<link rel="stylesheet" href="style.css"> → relier le CSS.
+
+<body> → contenu visible.
+
+<h1>, <h2>, <h3> → titres hiérarchiques.
+
+<p> → paragraphes.
+
+<div class="..."> → conteneur + nom pour le CSS.
+
+En CSS : .classe { ... } → applique un style à tous les éléments ayant class="classe".
+
+-->

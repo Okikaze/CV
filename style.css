@@ -1,0 +1,22 @@
+body { 
+  font-family: Arial, sans-serif; 
+  background: #ffffffd0; 
+  margin: 40px;
+}
+
+.cv {
+  background: #ffffffd0;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h2 { 
+  color: #333;
+}
+
+p { 
+  line-height: 1.5; 
+}
