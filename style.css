@@ -69,6 +69,7 @@ ul {
     }
     h4 {
       width: 80%;
+      margin: 10px;
     }
     div {
       width: 80%;
@@ -77,4 +78,21 @@ ul {
 
 .bold {
   font-weight: bold;
+}
+
+.formation {
+  margin: 15px 0px 15px 0px;
+  p {
+    margin: 0px;
+  }
+}
+
+.xp_pro {
+  margin: 10px 0px 10px 0px;
+  p {
+    margin: 0px;
+  }
+  h4 {
+    margin: 0px;
+  }
 }
