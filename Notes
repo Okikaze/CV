@@ -1,25 +1,54 @@
 <!-- NOTE
 
-<!DOCTYPE html> → je parle en HTML5.
+PARTIE HTML
 
-<html> → boîte globale.
+<!DOCTYPE html> → Indication pour le navigateur.
 
-<head> → infos techniques (non visibles).
+<Head> <meta charset> <title> -> balise qui concerne le fonctionnement global entre le titre de l'onglet, l'alphabet numérique utiliser pour la page etc...
 
-<meta charset="UTF-8"> → accents affichés correctement.
+<Link> rel & href -> Lien entre les différent langages de programmation - Rel indication de type de langage - Href indication de référence pour lié les différentes pages de codes.
 
-<title> → titre dans l’onglet.
+img src -> source d'image
 
-<link rel="stylesheet" href="style.css"> → relier le CSS.
+<div> -> classes -> facilité de controle
 
-<body> → contenu visible.
+<h1> -> titre principal - <h2-3-4-5-etc...> -> sous titre - <br> -> a la ligne
 
-<h1>, <h2>, <h3> → titres hiérarchiques.
+<ul> -> création de liste - <li> -> différent point de liste
 
-<p> → paragraphes.
+<p> Paragraphe
 
-<div class="..."> → conteneur + nom pour le CSS.
+<b> Bold
 
-En CSS : .classe { ... } → applique un style à tous les éléments ayant class="classe".
+
+
+------------------
+
+PARTIE CSS
+
+."class" -> cible une classe en particulier pour modification
+
+font-familly -> type de typographie
+font-size -> taille de typo
+text-align -> alignement de texte
+color -> couleur de la selection
+background color -> couleur de fond
+
+Display -> Type de box utiliser pour cadré la mise en place du html
+flex-direction -> direction de contenu de box
+Justify-content -> indication pour le placement du contenu de la box
+
+gap -> écart entre différente box ?
+
+margin -> écart exterieur de la box
+border -> écart intermediaire de la box
+border-radius -> arrondissement des bordures
+padding -> écart interne de la box
+
+position -> la position d'un élément sur le document
+
+width -> largeur
+
+{ } -> ouvrir a chaque classes ou element a modifier
 
 -->
